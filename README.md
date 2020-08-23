@@ -1,6 +1,6 @@
-### Hi there 👋
-## Welcome to my PAGE :grin: 
-This is V.Balaji😄
+### Hi there 👋😄
+ 
+This is V.Balaji:grin:
 
 ✨Embedded Engineer✨
 <!--
