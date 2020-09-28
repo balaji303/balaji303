@@ -1,11 +1,12 @@
 ### Hi there 👋
- 
+🌱 
 This is V.Balaji:grin:
 
 ✨Embedded Engineer✨
 
 One Life, One Rule :see_no_evil: :hear_no_evil: :speak_no_evil:
 
+:earth_asia: Fragile, Please Take Care:heavy_exclamation_mark:
 
 Enough Clicking Yours, Click Mine -[:computer:](https://balajimail9.wixsite.com/balaji) 
 <!--
