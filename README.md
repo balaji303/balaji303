@@ -1,5 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 🌱 
+<img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="40px">
+<img src="https://media.giphy.com/media/QTyXA9BgXwyJ91rsNA/giphy.gif" width="40px">
+
 This is V.Balaji:grin:
 
 ✨Embedded Engineer✨
