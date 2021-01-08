@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 🌱 
 This is V.Balaji:grin:
-<img src="http://gph.is/2xZrgId" width="40px">
+<img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="40px">
 ✨Embedded Engineer✨
 
 One Life, One Rule :see_no_evil: :hear_no_evil: :speak_no_evil:
