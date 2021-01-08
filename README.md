@@ -3,7 +3,7 @@
 This is V.Balaji:grin:
 <img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="40px">
 
-<img src="https://media.giphy.com/media/J3RHIevYQfx7q0Uvhi/giphy.gif" width="40px">
+<img src="https://media.giphy.com/media/3eRrgChnZnBbd1drWq/giphy.gif" width="40px">
 
 ✨Embedded Engineer✨
 
