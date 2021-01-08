@@ -1,9 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 🌱 
 This is V.Balaji:grin:
-<img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="40px">
-
-<img src="https://media.giphy.com/media/pDCR0ysoU15k05SSWC/giphy.gif" width="80px">
 
 ✨Embedded Engineer✨
 
@@ -11,10 +8,11 @@ One Life, One Rule :see_no_evil: :hear_no_evil: :speak_no_evil:
 
 :earth_asia: Fragile, Please Take Care:heavy_exclamation_mark:
 
-Enough Clicking Yours, Click Mine -[:computer:](https://balajimail9.wixsite.com/balaji) 
+<img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="40px">
 <!--
 **balaji303/balaji303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Enough Clicking Yours, Click Mine -[:computer:](https://balajimail9.wixsite.com/balaji) 
+<img src="https://media.giphy.com/media/pDCR0ysoU15k05SSWC/giphy.gif" width="80px">
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
