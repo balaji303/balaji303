@@ -3,13 +3,13 @@
 
 This is V.Balaji:grin:
 
-✨Embedded Engineer✨                                                                     <img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="80px">
+✨Embedded Engineer✨                                           
 
 One Life, One Rule :see_no_evil: :hear_no_evil: :speak_no_evil:
 
 :earth_asia: Fragile, Please Take Care:heavy_exclamation_mark:
 
-
+<img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="80px">
 
 
 
