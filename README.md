@@ -2,6 +2,9 @@
 🌱 
 This is V.Balaji:grin:
 <img src="https://media.giphy.com/media/fojJlPjoRgRpe/giphy.gif" width="40px">
+
+<img src="https://media.giphy.com/media/J3RHIevYQfx7q0Uvhi/giphy.gif" width="40px">
+
 ✨Embedded Engineer✨
 
 One Life, One Rule :see_no_evil: :hear_no_evil: :speak_no_evil:
