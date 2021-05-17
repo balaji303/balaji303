@@ -11,7 +11,6 @@ This is V.Balaji:grin:
 
 <img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="80px">
 
-[Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaji303)](https://github.com/balaji303/github-readme-stats)
 
 
 <!--
@@ -29,4 +28,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaji303)](https://github.com/balaji303/github-readme-stats)
+
 -->
