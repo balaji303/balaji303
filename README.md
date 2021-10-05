@@ -9,9 +9,10 @@ This is V.Balaji:grin:
 
 :earth_asia: Fragile, Please Take Care:heavy_exclamation_mark:
 
-<img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="80px">
+<img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="80px"> 
 
 <!--
+![Balaji GitHub Statistics](https://github-readme-stats.vercel.app/api?username=balaji303&show_icons=true) </br>
 **balaji303/balaji303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Enough Clicking Yours, Click Mine -[:computer:](https://balajimail9.wixsite.com/balaji) 
 <img src="https://media.giphy.com/media/QTyXA9BgXwyJ91rsNA/giphy.gif" width="40px">
