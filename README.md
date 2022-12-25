@@ -11,8 +11,6 @@ This is V.Balaji:grin:
 
 <img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="80px"> 
 
-[![Balaji's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=balaji303&&theme=xcode)](https://github.com/balaji303)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balaji303&show_icons=true&locale=en&theme=tokyonight" alt="balaji303" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balaji303&&theme=tokyonight" alt="balaji303" /></p>
