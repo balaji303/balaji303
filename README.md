@@ -10,5 +10,3 @@ This is V.Balaji:grin:
 :earth_asia: Fragile, Please Take Care:heavy_exclamation_mark:
 
 <img src="https://media.giphy.com/media/31vamYdZV5ISQ/giphy.gif" width="80px"> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=balaji303&show_icons=true&locale=en&theme=tokyonight" alt="balaji303" /></p>
