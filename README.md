@@ -14,3 +14,6 @@ Love watching movies
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA2ZTVmMGI2YzZjMWM4NTA2MzM4NWEzZjJhMjg1OTE5ZjYwNjRjZCZjdD1n/y1mWdggc3hEC4/giphy.gif" height="180" width="320px"> 
 
 ![](https://hit.yhype.me/github/profile?user_id=29356302)
+<p align="center">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31orl5qap7z4fapgibglpas2gcxe&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
