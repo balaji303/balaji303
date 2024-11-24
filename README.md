@@ -9,6 +9,7 @@ This is V.Balaji
 
 🌏 Fragile, Please Take Care❣❗
 
+👉 Wanna Know About Me? [**It's not who I am underneath, but what I do that defines me.**](https://linktr.ee/v.balaji)
 <!---
 <img src="https://media.tenor.com/2DS9Eu99SH0AAAAj/earth-terre.gif" height="100" width="120px">
 
